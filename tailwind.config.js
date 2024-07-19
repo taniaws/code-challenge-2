@@ -4,12 +4,14 @@ module.exports = {
   theme: {
     extend: {
       screens: {
-        "sm": "360px",
-        "md": "481px",
-        "lg": "769px"
+        "sm": "320px",
+        "md": "768px",
+        "lg": "1024px",
       }
     },
   },
-  plugins: [],
+  plugins: [
+    require('@tailwindcss/typography'),
+  ],
 }
 

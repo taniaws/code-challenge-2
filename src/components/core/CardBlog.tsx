@@ -21,7 +21,7 @@ const CardBlog: React.FunctionComponent<ICardBlogProps> = (
         key={id}
         onClick={() => router.push(`/blog/${id}`)}
     >
-        <div className='w-[23rem] h-[13rem] relative'>
+        <div className='sm:w-[22rem] md:w-[22.5rem] lg:w-[23rem] sm:h-[12rem] md:h-[12.5rem] lg:h-[13rem] relative'>
             <Image
                 src={`https:${image}`}
                 alt="image"
@@ -30,9 +30,9 @@ const CardBlog: React.FunctionComponent<ICardBlogProps> = (
                 className='rounded-2xl'
             />
         </div>
-        <div className='py-5 max-w-[23rem]'>
-            <h3 className='text-2xl font-bold'>{title}</h3>
-            <p className='text-xl text-slate-600 font-semibold'>{section}</p>
+        <div className='sm:py-3 lg:py-5 sm:max-w-[21rem] lg:max-w-[22rem]'>
+            <h3 className='font-bold sm:text-xl lg:text-2xl'>{title}</h3>
+            <p className='text-slate-600 font-semibold sm:text-lg lg:text-xl'>{section}</p>
         </div>
     </div>
   )

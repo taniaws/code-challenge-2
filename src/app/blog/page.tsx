@@ -13,7 +13,7 @@ const Blog: React.FunctionComponent<IBlogProps> = async(props) => {
         if (blogsList?.length) {
             return (
                 <div className='flex justify-evenly'>
-                    <div className='grid grid-cols-3'>
+                    <div className='lg:grid lg:grid-cols-3'>
                         {blogsList?.map((value:any) => {
                             const {sys, fields} = value;
 
@@ -36,10 +36,10 @@ const Blog: React.FunctionComponent<IBlogProps> = async(props) => {
     
     
     return (
-    <div className='flex flex-col items-center'>
-        <div className='my-20 mx-40 relative left-[-11rem]'>
-            <h1 className='text-5xl text-[#12181f] font-bold'>What's On Gojek</h1>
-            <p className='my-5 text-xl'>Our stories, latest updates, and exclusive promos. Find anything you want to know about us.</p>
+    <div className='flex flex-col overflow-hidden'>
+        <div className='relative sm:mx-12 md:mx-40 lg:mx-44 sm:my-10 lg:my-20 sm:text-left md:text-center lg:text-left'>
+            <h1 className='text-[#12181f] font-bold sm:text-3xl md:text-4xl lg:text-5xl'>What's On Gojek</h1>
+            <p className='my-5 sm:text-base md:text-lg lg:text-xl'>Our stories, latest updates, and exclusive promos. Find anything you want to know about us.</p>
         </div>
         <div>
             <h1>{printBlog()}</h1>
