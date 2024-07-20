@@ -71,8 +71,8 @@ const ProductDetail: React.FunctionComponent<IProductDetailProps> = (props) => {
               <Slider {...settings}>
                 {product.product.map((image: ImageProduct, index: number)=> {
                   return(
-                    <div>
-                      <div key={index} className='relative z-10 my-14 bg-white p-10 rounded-3xl w-[17rem] h-56 flex flex-col mx-auto'>
+                    <div key={index}>
+                      <div className='relative z-10 my-14 bg-white p-10 rounded-3xl w-[17rem] h-56 flex flex-col mx-auto'>
                         <Image src={image.url} width={image.width} height={image.height} alt={`Product - ${index}`} />
                         <p className='mt-3 text-xl'>{image.description}</p>
                       </div>
