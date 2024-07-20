@@ -1,0 +1,386 @@
+{
+    "milestones": [
+        {
+            "id": "1",
+            "year": "2010",
+            "img": "https://cdn-site.gojek.com/uploads/2010_milestones_31037604db.svg",
+            "description": "From the land of Jakarta - 20 motorcycle taxis, 1 call center, and a mission to remove friction from people’s lives. Gojek (then GO-JEK) begins to paint the town green.",
+            "width": "313",
+            "height": "189"
+        },
+        {
+            "id": "2",
+            "year": "2015",
+            "img": "https://cdn-site.gojek.com/uploads/2015_milestones_655ef131de.svg",
+            "description": "Enter the Gojek app. Orders explode from 3,000 to 100,000 a day. Operations expand beyond Jakarta. Enter food delivery, ticket bookings, and more. Series A funding flows in.",
+            "width": "313",
+            "height": "189"
+        },
+        {
+            "id": "3",
+            "year": "2016",
+            "img": "https://cdn-site.gojek.com/uploads/2016_milestones_7e4e98528c.svg",
+            "description": "Gojek becomes Indonesia’s first unicorn. Orders jump to 300,000 a day.",
+            "width": "313",
+            "height": "189"
+        },
+        {
+            "id": "4",
+            "year": "2017",
+            "img": "https://cdn-site.gojek.com/uploads/2017_milestones_bb4454975f.svg",
+            "description": "Ranks 17th among Fortune’s Top 20 companies that changed the world. Clocks 3,600x growth in 18 months. That’s one of the fastest in the world.",
+            "width": "313",
+            "height": "189"
+        },
+        {
+            "id": "5",
+            "year": "2018",
+            "img": "https://cdn-site.gojek.com/uploads/2018_milestones_73e141cf6c.svg",
+            "description": "Spreads wings across Vietnam and Thailand. We’re now talking 100 million orders a day. Grows 1,100x in total volume of transaction.",
+            "width": "313",
+            "height": "189"
+        },
+        {
+            "id": "6",
+            "year": "2019",
+            "img": "https://cdn-site.gojek.com/uploads/2019_milestones_9c159aa64e.svg",
+            "description": "Listed Fortune’s favorite again! Over 20 products, 2 million driver partners. Series F funding from Google, Tencent, JD.com and Mitsubishi.",
+            "width": "313",
+            "height": "189"
+        },
+        {
+            "id": "7",
+            "year": "2020",
+            "img": "https://cdn-site.gojek.com/uploads/2020_milestones_887bc7e1c7.svg",
+            "description": "Integrates Indonesia, Singapore, Thailand and Vietnam apps into one, under Gojek. GoFood becomes the world's most helpful and user-friendly app during the pandemic.* Crosses 190 million app downloads.",
+            "width": "313",
+            "height": "189"
+        },
+        {
+            "id": "8",
+            "year": "2021",
+            "img": "https://cdn-site.gojek.com/uploads/Gojek_Tokopedia_01_87cb996349.svg",
+            "description": "Gojek and Tokopedia unite to form GoTo, the largest tech group in Indonesia and the “go to” ecosystem for daily life.",
+            "width": "313",
+            "height": "189"
+        }
+    ],
+
+    "cultures": [
+        {
+            "id": "1",
+            "title": "We do what's best for all of GoTo",
+            "description": "We're performance-driven and accountable in not just one but all aspects of the business.",
+            "image": "/culture-1.png",
+            "width": "4501",
+            "height": "4501"
+        },
+        {
+            "id": "2",
+            "title": "We treat people with respect",
+            "description": "We treat people with respect, and we show this by being open to different perspectives, transparent with opportunities and challenges.",
+            "image": "/culture-2.png",
+            "width": "4501",
+            "height": "4501"
+        },
+        {
+            "id": "3",
+            "title": "We aim high, responsibly",
+            "description": "We execute with excellence and efficiency, pursuing innovations, by adhering to the highest standards of ethics and integrity.",
+            "image": "/culture-3.png",
+            "width": "4501",
+            "height": "4501"
+        }
+    ],
+
+    "teams": [
+        {
+            "id": "1",
+            "name": "Nadiem Makarim",
+            "role": "Co-Founder",
+            "description": "Nadiem is the visionary behind Gojek, leading its growth from a small call center to a multi-service platform.",
+            "image": "/team-1.png",
+            "width": "300",
+            "height": "400",
+            "contact": "nadiem.makarim@gomail.com"
+        },
+        {
+            "id": "2",
+            "name": "Kevin Aluwi",
+            "role": "CEO of Gojek",
+            "description": "Kevin has a strong background in finance and technology, playing a key role in Gojek's expansion and success.",
+            "image": "/team-2.png",
+            "width": "300",
+            "height": "400",
+            "contact": "kevin.aluwi@gomail.com"
+        },
+        {
+            "id": "3",
+            "name": "Andre Soelistyo",
+            "role": "CEO of GoTo",
+            "description": "Andre has extensive experience in investment banking and corporate finance, leading GoTo's strategic initiatives.",
+            "image": "/team-3.png",
+            "width": "300",
+            "height": "400",
+            "contact": "andre.soelistyo@gomail.com"
+        },
+        {
+            "id": "4",
+            "name": "Patrick Cao",
+            "role": "President of GoTo",
+            "description": "Patrick's expertise in finance and strategy has been instrumental in driving GoTo's growth and market presence.",
+            "image": "/team-4.png",
+            "width": "300",
+            "height": "400",
+            "contact": "patrick.cao@gomail.com"
+        },
+        {
+            "id": "5",
+            "name": "Catherine Hindra Sutjahyo",
+            "role": "Head of Food and Indonesia Sales & Ops",
+            "description": "Catherine has led various strategic initiatives at Gojek, focusing on expanding its food delivery services and operations.",
+            "image": "/team-5.png",
+            "width": "300",
+            "height": "400",
+            "contact": "catherine.sutjahyo@gomail.com"
+        },
+        {
+            "id": "6",
+            "name": "Nila Marita",
+            "role": "Chief Corporate Affairs Officer",
+            "description": "Nila brings a wealth of experience in corporate communications and public affairs to her role at Gojek.",
+            "image": "/team-6.png",
+            "width": "300",
+            "height": "400",
+            "contact": "nila.marita@gomail.com"
+        },
+        {
+            "id": "7",
+            "name": "Monica Oudang",
+            "role": "Chief Human Resources Officer (CHRO)",
+            "description": "Monica has a strong background in human resources, focusing on talent development and organizational growth at Gojek.",
+            "image": "/team-7.png",
+            "width": "300",
+            "height": "400",
+            "contact": "monica.oudang@gomail.com"
+        }
+    ],
+
+
+    "products": [
+        {
+            "id": "1",
+            "color": "bg-[#4ca735]",
+            "shadow": "bg-[#3d8a2d]",
+            "product": [
+                {"url": "https://cdn-site.gojek.com/uploads/goride_horizontal_logo_white_a2b9d20d84.svg", "width": "130", "height": "32"},
+                {"url": "https://cdn-site.gojek.com/uploads/gocar_horizontal_logo_white_786624f7de.svg", "width": "123", "height": "30"},
+                {"url": "https://cdn-site.gojek.com/uploads/gobluebird_horizontal_logo_white_97f0e532c4.svg", "width": "194", "height": "32"},
+                {"url": "https://cdn-site.gojek.com/uploads/gosend_horizontal_logo_white_f53401da5e.svg", "width": "149", "height": "32"},
+                {"url": "https://cdn-site.gojek.com/uploads/gobox_horizontal_logo_white_03f344f3d2.svg", "width": "131", "height": "32"}
+            ],
+            "title": "Transport & Logistics",
+            "description": "We've kinda done 13,000 trips between the earth and the moon."            
+        },
+        {
+            "id": "2",
+            "color": "bg-[#4eabd2]",
+            "shadow": "bg-[#4091af]",
+            "product": [
+                {"url": "https://cdn-site.gojek.com/uploads/gopay_horizontal_logo_white_257d535edd.svg", "width": "133", "height": "32"},
+                {"url": "https://cdn-site.gojek.com/uploads/gotagihan_horizontal_logo_white_41339237ce.svg", "width": "183", "height": "32"},
+                {"url": "https://cdn-site.gojek.com/uploads/gopaylater_horizontal_logo_white_4c5632c1ab.svg", "width": "202", "height": "32"},
+                {"url": "https://cdn-site.gojek.com/uploads/gosure_horizontal_logo_white_9aa83831d0.svg", "width": "143", "height": "32"}
+            ],
+            "title": "Payments",
+            "description": "From deals to donations, we make transactions easy, reliable, and cashless."
+        },
+        {
+            "id": "3",
+            "color": "bg-[#db3e40]",
+            "shadow": "bg-[#a13434]",
+            "product": [
+                {"url": "https://cdn-site.gojek.com/uploads/gofood_horizontal_logo_white_13c7a3f74e.svg", "width": "140", "height": "32"},
+                {"url": "https://cdn-site.gojek.com/uploads/gomed_horizontal_logo_white_0b7fdfd8ed.svg", "width": "140", "height": "32"},
+                {"url": "https://cdn-site.gojek.com/uploads/gomart_horizontal_logo_white_8d2c362daa.svg", "width": "143", "height": "32"},
+                {"url": "https://cdn-site.gojek.com/uploads/goshop_horizontal_logo_white_9ef721940a.svg", "width": "151", "height": "32"}
+            ],
+            "title": "Food & Shopping",
+            "description": "Fill your cart with food, electronics, medicines, and more. Without stepping out!"
+        },
+        {
+            "id": "4",
+            "color": "bg-[#88398a]",
+            "shadow": "bg-[#762e69]",
+            "product": [
+                {"url": "https://cdn-site.gojek.com/uploads/product_gobiz_29ba1a1838.svg", "width": "106", "height": "32"},
+                {"url": "https://cdn-site.gojek.com/uploads/Midtrans_Horizontal_white_09b12c27ba.svg", "width": "140", "height": "32"},
+                {"url": "https://cdn-site.gojek.com/uploads/Moka_Horizontal_inverse_62111ab44e.svg", "width": "140", "height": "32"},
+                {"url": "https://cdn-site.gojek.com/uploads/Go_Store_Horizontal_white_16427af66d.svg", "width": "140", "height": "32"},
+                {"url": "https://cdn-site.gojek.com/uploads/Selly_Horizontal_white_800d3d2585.svg", "width": "140", "height": "32"}
+            ],
+            "title": "Business",
+            "description": "Manage your restaurants, run ads, create promos, and do more."
+        }
+    ],
+
+    "productDetail": [
+        {
+            "id": "1",
+            "bgcolor": "bg-[#8fca77]",
+            "bgimage": "https://cdn-site.gojek.com/uploads/pruduct_bg1_1b5d50b294.svg",
+            "width": "822",
+            "height": "617",
+            "title": "Transport & Logistics",
+            "description": "With 2 million+ driver partners, we’ve kinda done 13,000 trips between the earth and the moon.",
+            "product": [
+                {"url": "https://cdn-site.gojek.com/uploads/goride_horizontal_logo_solid_9b44c7a0ad.svg", "width": "132", "height": "32", "description": "Your two-wheeler taxi, aka Ojek."},
+                {"url": "https://cdn-site.gojek.com/uploads/gocar_horizontal_logo_solid_77d72ba886.svg", "width": "123", "height": "30", "description": "Sit back. Sleep. Snore. Be comfortable."},
+                {"url": "https://cdn-site.gojek.com/uploads/gosend_horizontal_logo_solid_ff3d70a1f3.svg", "width": "149", "height": "32", "description": "Get your package delivered within hours."},
+                {"url": "https://cdn-site.gojek.com/uploads/gobox_horizontal_logo_solid_84ac91235a.svg", "width": "131", "height": "32", "description": "Moving out? We’ll do the weights."},
+                {"url": "https://cdn-site.gojek.com/uploads/gobluebird_horizontal_logo_solid_83958704ac.svg", "width": "194", "height": "32", "description": "Ride exclusive with the Bluebird."}
+            ]
+        },
+        {
+            "id": "2",
+            "bgcolor": "bg-[#8bd0e4]",
+            "bgimage": "https://cdn-site.gojek.com/uploads/product_bg2_0ba0047196.svg",
+            "width": "822",
+            "height": "617",
+            "title": "Payments",
+            "description": "One of the largest fintech companies in Southeast Asia, we make transactions reliable and cashless.",
+            "product": [
+                {"url": "https://cdn-site.gojek.com/uploads/gopay_horizontal_logo_solid_8a3e0f1837.svg", "width": "133", "height": "32", "description": "Drop the wallet, go cashless."},
+                {"url": "https://cdn-site.gojek.com/uploads/gotagihan_horizontal_logo_solid_13c87e6e44.svg", "width": "183", "height": "32", "description": "Pay bills - quick & simple."},
+                {"url": "https://cdn-site.gojek.com/uploads/gopaylater_horizontal_logo_solid_e55f2856e2.svg", "width": "202", "height": "32", "description": "Exactly. Order now, PayLater."},
+                {"url": "https://cdn-site.gojek.com/uploads/gogive_horizontal_logo_solid_2596e88ee1.svg", "width": "134", "height": "32", "description": "Make donations, touch lives."},
+                {"url": "https://cdn-site.gojek.com/uploads/gosure_horizontal_logo_solid_bb925c9cf9.svg", "width": "143", "height": "32", "description": "Insurance cover for things you value."},
+                {"url": "https://cdn-site.gojek.com/uploads/goinvestasi_test_f7d63bb312.svg", "width": "183", "height": "32", "description": "Invest smart, save better."},
+                {"url": "https://cdn-site.gojek.com/uploads/gocorp_horizontal_logo_solid_27d310ada2.svg", "width": "144", "height": "32", "description": "Easier to manage your employee's transportation cost"}
+            ]
+        },
+        {
+            "id": "3",
+            "bgcolor": "bg-[#e9848a]",
+            "bgimage": "https://cdn-site.gojek.com/uploads/product_bg3_3970c9b1d9.svg",
+            "width": "822",
+            "height": "617",
+            "title": "Food & Shopping",
+            "description": "Fill your cart with food, groceries, medicines, electronics and more. Without stepping out.",
+            "product": [
+                {"url": "https://cdn-site.gojek.com/uploads/gofood_horizontal_logo_solid_d946d76f5a.svg", "width": "140", "height": "32", "description": "Hungry? Order in."},
+                {"url": "https://cdn-site.gojek.com/uploads/gomart_horizontal_logo_solid_f8712e4e6c.svg", "width": "143", "height": "32", "description": "Groceries delivered from stores nearby."},
+                {"url": "https://cdn-site.gojek.com/uploads/gomed_horizontal_logo_solid_5625e2f30c.svg", "width": "140", "height": "32", "description": "Chat with doctors, order in medicines."},
+                {"url": "https://cdn-site.gojek.com/uploads/goshop_horizontal_logo_solid_0ee51c6850.svg", "width": "151", "height": "32", "description": "Buy anything from anywhere."}
+            ]
+        },
+        {
+            "id": "4",
+            "bgcolor": "bg-[#ca8ec5]",
+            "bgimage": "https://cdn-site.gojek.com/uploads/product_bg4_7cb2892fbf.svg",
+            "width": "822",
+            "height": "617",
+            "title": "Business",
+            "description": "Manage your restaurants, run ads, create promos, and do more.",
+            "product": [
+                {"url": "https://cdn-site.gojek.com/uploads/gobizmerchant_logo_a47c179953.svg", "width": "183", "height": "32", "description": "A Gojek app to run and grow your business."},
+                {"url": "https://cdn-site.gojek.com/uploads/midtrans_color_84a4dbb037.svg", "width": "173", "height": "32", "description": "Accept payments and make payouts easily."},
+                {"url": "https://cdn-site.gojek.com/uploads/moka_color_9f4a7f7ee7.svg", "width": "170", "height": "32", "description": "Cloud based POS that made selling easy."},
+                {"url": "https://cdn-site.gojek.com/uploads/selly_color_6e9bf69091.svg", "width": "170", "height": "32", "description": "Keyboard for online sellers."}
+            ]
+        }
+    ],
+    
+    "testimonials": [
+        {
+            "id": 1,
+            "name": "Pipit",
+            "role": "Driver partner",
+            "description": "After joining Gojek, I was able to support and provide for my family. I think Gojek is a company that can help a lot of people.",
+            "image": "/partner-1.png",
+            "width": "500",
+            "height": "500"
+        },
+        {
+            "id": 2,
+            "name": "Yusak Wiradi",
+            "role": "Merchant partner",
+            "description": "In the past, I had to send goods myself. Now GoBiz can help me in many ways.",
+            "image": "/partner-2.png",
+            "width": "500",
+            "height": "500"
+        },
+        {
+            "id": 3,
+            "name": "Rakha",
+            "role": "Driver partner",
+            "description": "After 1-2 months of joining as a GoCar partner, thank God I can collect 5 million in cash.",
+            "image": "/partner-3.png",
+            "width": "500",
+            "height": "500"
+        },
+        {
+            "id": 4,
+            "name": "Iskandar",
+            "role": "Merchant partner",
+            "description": "In the past, our income for each outlet was tens of millions. Now, it has reached millions.",
+            "image": "/partner-4.png",
+            "width": "500",
+            "height": "500"
+        },
+        {
+            "id": 5,
+            "name": "Venty",
+            "role": "Driver partner",
+            "description": "Since joining Gojek, our life as a family has gradually improved.",
+            "image": "/partner-5.png",
+            "width": "500",
+            "height": "500"
+        },
+        {
+            "id": 6,
+            "name": "Nita",
+            "role": "Merchant partner",
+            "description": "My favorite (feature) is the open and close restaurant setting as our customers are able to know we are closed every Tuesday.",
+            "image": "/partner-6.png",
+            "width": "500",
+            "height": "500"
+        },
+        {
+            "id": 7,
+            "name": "Andika",
+            "role": "Driver partner",
+            "description": "When we give our best, the result is the best.",
+            "image": "/partner-7.png",
+            "width": "500",
+            "height": "500"
+        },
+        {
+            "id": 8,
+            "name": "Anindita",
+            "role": "Merchant partner",
+            "description": "Before using GoBiz, By Anind used the PO system. But since using the GoBiz application, customer can order from anywhere and anytime.",
+            "image": "/partner-8.png",
+            "width": "500",
+            "height": "500"
+        },
+        {
+            "id": 9,
+            "name": "Imam",
+            "role": "Driver partner",
+            "description": "As a driver partner who is always on the move, I have to be ready and responsive under any circumstances.",
+            "image": "/partner-9.png",
+            "width": "500",
+            "height": "500"
+        },
+        {
+            "id": 10,
+            "name": "Deby Apriyanti",
+            "role": "Merchant partner",
+            "description": "The GoBiz application eases my business as it has various complete features.",
+            "image": "/partner-10.png",
+            "width": "500",
+            "height": "500"
+        }
+    ]
+}
